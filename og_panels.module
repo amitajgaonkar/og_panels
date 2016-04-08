@@ -23,6 +23,9 @@ function og_panels_init(){
   }
 }
 
+/** 
+ * Info for implementing og panels
+ */
 function og_panels_help($path, $arg) {
   switch ($path) {
     case 'admin/help#og_panels':
